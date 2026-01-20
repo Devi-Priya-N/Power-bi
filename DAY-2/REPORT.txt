@@ -1,0 +1,11 @@
+                                                              
+
+
+
+                                                                           REPORT
+
+1.MAIN COURSE: Main course has the highest quantity , so it is most ordered food item.( 6899 )
+2.SANCKS : Sancks are the next most ordered showing high customer demand. ( 4479 )
+3.DESSERT & BREAKFAST:Medium sales , not too high & not too low.( 1569 & 1565 )
+4.BEVERAGE: Ordered in small , quantity along with food. ( 495 )
+5.APPETZER: Small quantity. ( 96 )
