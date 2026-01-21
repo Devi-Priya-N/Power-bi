@@ -1,0 +1,11 @@
+                                             REPORT
+
+1.Gold members consistently order higher quantities across all food and restaurant types.
+
+2.North Indian cuisine drives the maximum orders and deliveries.
+
+3.Main Course and Snacks are the most ordered food categories.
+
+4.UPI is the most preferred payment method, especially among Gold members.
+
+5.Top restaurants by quantity include Bukhara, Saravana Bhavan, and Indian Accent.
