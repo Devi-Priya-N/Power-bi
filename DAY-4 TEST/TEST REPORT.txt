@@ -1,0 +1,17 @@
+                            
+
+ 
+                                                  REPORT
+
+
+
+
+1.Overall trend: Sales fluctuate rather than grow steadily, indicating daily variability in demand.
+2.Mid-October: Sales rise from around Oct 7–8, reaching a local peak around Oct 18–19.
+3.Late October: A dip is visible after the mid-month peak, followed by another spike around Oct 31.
+4.Early November: Sales peak again around Nov 4, then drop sharply by Nov 6.
+5.Pattern insight: The repeated spikes suggest event-driven or promotional sales days, not consistent daily performance.
+ Business interpretation Sales are not stable day to day, so forecasting should consider seasonality, campaigns, or weekdays/weekends.
+6.High-spike days should be analyzed further to identify: Promotions Product launches Channel or regional drivers
+If you want, I can also:Break this line report by product Convert it into a Week-on-Week trend Suggest DAX measures for smoother trends (e.g., moving average)
+
